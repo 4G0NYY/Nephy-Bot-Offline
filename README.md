@@ -4,6 +4,8 @@
 
 An offline Discord chatbot powered by local language models. **Nephy** is a playful, chaotic yet caring AI companion that engages in natural conversations with users while maintaining full privacy through local model inference.
 
+Huge shout-out to [syntax-z](https://github.com/zeeblo), he did most of this, I simply adapted it to work with GPT4all.
+
 ---
 
 ## 🎯 Overview
@@ -22,6 +24,11 @@ Nephy Bot is a Discord bot that brings intelligent conversation capabilities to 
 - 📊 **Modular Architecture** - Extensible cog system for easy feature additions
 
 ---
+
+### Examples:
+![pic1](./assets/info/setup_readme_imgs/convo1.png)
+
+![pic2](./assets/info/setup_readme_imgs/convo2.png)
 
 ## 📋 Requirements
 
