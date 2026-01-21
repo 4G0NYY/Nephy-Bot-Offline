@@ -1,0 +1,10 @@
+{
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN",
+  "llm_provider": "local",
+  "local": {
+    "base_url": "http://localhost:4891/v1/chat/completions",
+    "model": "Nous Hermes 2 Mistral DPO",
+    "temperature": 0.7,
+    "max_tokens": 512
+  }
+}
